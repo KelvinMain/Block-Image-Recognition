@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Castle4</folder>
+	<filename>castle4_2.jpg</filename>
+	<path>D:/../Images/Castle4/castle4_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>201</width>
+		<height>189</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Castle4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>31</ymin>
+			<xmax>169</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+</annotation>

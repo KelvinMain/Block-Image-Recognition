@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Blue4</folder>
+	<filename>blue4_16.jpg</filename>
+	<path>D:/../Images/Blue4/blue4_16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>201</width>
+		<height>189</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Blue4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>27</ymin>
+			<xmax>174</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+</annotation>

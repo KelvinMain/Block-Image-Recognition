@@ -1,0 +1,8 @@
+import Label_image
+import split_dataset
+import Copy_all_xml_files_and_photos_to_a_folder
+
+Label_image.do_face_detection_and_labelling_for_all_img(TESTING=False)
+split_dataset.split_dataset()
+Copy_all_xml_files_and_photos_to_a_folder.copying()
+
